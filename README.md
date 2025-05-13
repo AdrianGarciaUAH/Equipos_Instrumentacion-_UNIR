@@ -1,2 +1,7 @@
-# Equipos_Instrumentacion-_UNIR
-Publicare mis actividades de la asignatura
+# Equipos e Instrumentación Electrónica
+- García Alonso, Adrián
+- Master Universitario de Telecomunicaciones en la UNIR
+- Trabajo Individual
+
+
+## Actividad 1: 
